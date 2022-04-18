@@ -5,4 +5,4 @@ This repo provides a single-layer mask for the fabrication of superconducting mi
 
 This mask is named COH-SQMS. "COH" refers to its application as a coherence indicator, and "SQMS" refers to the Superconducting Quantum Materials and Systems Center, which funded this effort.
 
-For more information, please see the arXiv white paper (link to be added soon).
+For more information, please see the arXiv white paper https://arxiv.org/abs/2204.07202.
